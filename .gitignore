@@ -1,3 +1,4 @@
 02_Connect_To_Agent/.env
 */__pycache__/*
 .venv/*
+03-LangGraph/01-Basics/.env
