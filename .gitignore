@@ -1,1 +1,3 @@
 02_Connect_To_Agent/.env
+*/__pycache__/*
+.venv/*
