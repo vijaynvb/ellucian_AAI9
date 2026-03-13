@@ -1,0 +1,19 @@
+Recap: 
+
+
+Todays Topics:
+1. use tools in agents
+2. use chat messages in agents : LangChain
+    Message -> Conversational application graph and [200k] llms 
+        SystemMessage
+        HumanMessage 
+        AIMessage 
+        Summarization
+3. use intelegent routing by an agent to select tools
+    tools [tool1, tool2, tool3]
+4. use intelegent routing by an agent to select agents
+    agents [agent1, agent2, agent3]
+5. local models deployments and access via langgraph 
+6. remote tools and agents to be consumed by the application 
+8. consume MCP in the application 
+    client [application] -> server [custom-mcp-data]
